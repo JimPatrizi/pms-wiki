@@ -4,6 +4,9 @@ site/
 .test-secrets
 .vscode/
 
+# local Python virtualenv used by the Cloud Agent / mkdocs serve
+.venv/
+
 # Created by https://www.toptal.com/developers/gitignore/api/vscode,macos,windows,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=vscode,macos,windows,linux
 
